@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD025F79214906A3001C46E6 /* mirai.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = DD025F78214906A3001C46E6 /* mirai.mp4 */; };
 		DD4DF9B021440E55002B1EF4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4DF9AF21440E55002B1EF4 /* AppDelegate.swift */; };
 		DD4DF9B221440E55002B1EF4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4DF9B121440E55002B1EF4 /* ViewController.swift */; };
 		DD4DF9B521440E55002B1EF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD4DF9B321440E55002B1EF4 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD025F78214906A3001C46E6 /* mirai.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = mirai.mp4; path = ../../../Desktop/mirai.mp4; sourceTree = "<group>"; };
 		DD4DF9AC21440E55002B1EF4 /* MiraiDatePicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MiraiDatePicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD4DF9AF21440E55002B1EF4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD4DF9B121440E55002B1EF4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		DD4DF9AE21440E55002B1EF4 /* MiraiDatePicker */ = {
 			isa = PBXGroup;
 			children = (
+				DD025F78214906A3001C46E6 /* mirai.mp4 */,
 				DD4DF9AF21440E55002B1EF4 /* AppDelegate.swift */,
 				DD4DF9B121440E55002B1EF4 /* ViewController.swift */,
 				DD4DF9B321440E55002B1EF4 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				DD4DF9BA21440E57002B1EF4 /* LaunchScreen.storyboard in Resources */,
 				DD4DF9B721440E57002B1EF4 /* Assets.xcassets in Resources */,
+				DD025F79214906A3001C46E6 /* mirai.mp4 in Resources */,
 				DD4DF9B521440E55002B1EF4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
